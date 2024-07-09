@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "StoreZoid",
+    "slug": "StoreZoid",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/store.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.it_is_mukarram.StoreZoid"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3085e318-3bdc-4338-b190-5b82714cda0d"
+      }
+    }
+  }
+}
